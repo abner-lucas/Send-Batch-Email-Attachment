@@ -1,6 +1,10 @@
 # Envio Automatizado de E-mail em Lote com Arquivo em Anexo
 Este projeto facilita o envio em massa de certificados personalizados por email, utilizando Python. É especialmente útil para organizadores de eventos que precisam distribuir certificados de participação para vários destinatários. O script automatiza o processo de envio de emails, anexando os arquivos corretos a cada mensagem.
 
+<p align="center">
+  <img src="image.png" width="600"/>
+</p>
+
 ## Funcionalidades
 - Importa uma lista de destinatários e seus respectivos anexos de um arquivo Excel.
 - Lê o corpo da mensagem e o assunto do email de um arquivo de texto.
